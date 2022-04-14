@@ -1,0 +1,36 @@
+{
+  "name": "custom-cursors-part-2-d",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "James Baker",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@jbkr/components": "0.1.109",
+    "@jbkr/style-service": "0.1.103",
+    "@jbkr/utilities": "0.1.103",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-helmet": "6.1.0",
+    "styled-components": "5.3.3",
+    "styled-normalize": "8.0.7"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "description": ""
+}
